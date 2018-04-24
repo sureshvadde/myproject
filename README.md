@@ -1,2 +1,0 @@
-# myproject
-# added for clone
